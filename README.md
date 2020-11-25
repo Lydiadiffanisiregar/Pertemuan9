@@ -60,7 +60,7 @@ print("==================================================================")
 Source code diatas akan menghasilkan output program sebagai berikut: <br>
 
 <div align="center">
-<img src="foto/2.png" >
+<img src="foto/2.PNG" >
 </div>
 <br>
 
@@ -125,7 +125,7 @@ print("==================================================================")
 <br>
 
 <div align="center">
-<img src="foto/3.png" >
+<img src="foto/3.PNG" >
 </div>
 <br>
 
@@ -135,7 +135,7 @@ print("==================================================================")
 Kemudian pada pertemuan tersebut terdapat pula tugas praktikum 5, berikut tugas yang diberikan: <br>
 
 <div align="center">
-<img src="foto/4.png" >
+<img src="foto/4.PNG" >
 </div> 
 <br>
 
@@ -269,7 +269,7 @@ while True:
 **Source Code diatas akan menghasilkan output seperti dibawah ini:** <br>
 
 <div align="center">
-<img src="foto/5.png" >
+<img src="foto/5.PNG" >
 </div> 
 <br>
 
