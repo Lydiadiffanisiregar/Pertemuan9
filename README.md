@@ -27,7 +27,7 @@ Dosen   : Agung Nugroho S.Kom, M.Kom
 </div>
 <br>
 
-Untuk membuat program yang diminta, saya menggunakan source code sebagai berikut: <br>
+Untuk membuat program yang dimin ta, saya menggunakan source code sebagai berikut: <br>
 ```
 nilai = []
 ulang = True
