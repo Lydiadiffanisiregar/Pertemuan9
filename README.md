@@ -58,6 +58,7 @@ print("==================================================================")
 <br>
 
 Source code diatas akan menghasilkan output program sebagai berikut: <br>
+
 <div align="center">
 <img src="foto/2.png" >
 </div>
@@ -122,6 +123,7 @@ print("==================================================================")
 **Dari source code diatas maka akan keluar output:**
 
 <br>
+
 <div align="center">
 <img src="foto/3.png" >
 </div>
