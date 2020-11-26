@@ -374,6 +374,11 @@ Jika **'semua'** maka input data di `[nama][1] = input("Ubah NIM:")`<br>
 - `else: print("'{}' tidak ditemukan.".format(nama))`   : Jika kita salah dalam memasukkan nama untuk diubah, maka data akan muncul di '**nama tidak di temukan**'.
 <br>
 
+<div align="center">
+<img src="foto/6.PNG" >
+</div> 
+<br>
+
 ***
 
 # Terimakasih
